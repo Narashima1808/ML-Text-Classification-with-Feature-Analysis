@@ -70,13 +70,7 @@ Unlike typical implementations, this project focuses on:
 
 ---
 
-## 📊 Results
 
-| Model | Features | Accuracy | F1 Score |
-| ----- | -------- | -------- | -------- |
-| NB    | BoW      | TBD      | TBD      |
-| LR    | TF-IDF   | TBD      | TBD      |
-| SVM   | Bigrams  | TBD      | TBD      |
 
 ---
 
@@ -95,40 +89,6 @@ Unlike typical implementations, this project focuses on:
 * NLTK
 * pandas, matplotlib, seaborn
 
----
-
-## 📂 Project Structure
-
-```
-├── data/
-├── src/
-│   ├── preprocessing.py
-│   ├── features.py
-│   ├── models.py
-│   ├── evaluation.py
-├── notebooks/
-├── results/
-├── README.md
-```
-
----
-
-## 🚀 How to Run
-
-```bash
-pip install -r requirements.txt
-python src/train.py
-```
-
----
-
-## 📈 Future Work
-
-* Add deep learning models (LSTM, BERT)
-* SHAP/LIME for interpretability
-* Domain adaptation
-
----
 
 ## 👨‍💻 Author
 
