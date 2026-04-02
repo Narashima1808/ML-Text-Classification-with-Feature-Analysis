@@ -1,5 +1,5 @@
 # ML-Text-Classification-with-Feature-Analysis
-# ML Text Classification with Feature Analysis
+
 
 **Interpretable NLP using Classical Machine Learning**
 
@@ -132,4 +132,4 @@ python src/train.py
 
 ## 👨‍💻 Author
 
-[Your Name]
+Narashimamurthy K
